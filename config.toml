@@ -1,0 +1,4 @@
+baseURL = "https://vuelish.com/"
+languageCode = "en-us"
+title = "Vuelish"
+theme = "Education"

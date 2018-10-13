@@ -1,6 +1,7 @@
 +++
 title = "Listening First"
 date = 2018-10-12T21:53:29+07:00
+aliases = ["/blog/listening-first"]
 +++
 
 Kỹ năng nghe là kỹ năng quan trọng nhất của ngôn ngữ. Nếu không nghe thấy và hiểu được âm thanh của 1 tiếng nói, chúng ta không thể nào phản ứng, đáp trả hay hành động gì cả. Khi bạn không thể nói, bạn có thể viết, vẽ, dùng cử chỉ hành động. Nhưng nếu bạn không thể nghe, thì bạn không thể nào hiểu được đối phương muốn nói gì, truyền đạt thông tin ra sao.
